@@ -1,0 +1,7 @@
+{
+    "events": [
+        {"date": "2025-06-10", "color": "orange"},
+        {"date": "2025-06-15", "color": "red"},
+        {"date": "2025-06-22", "color": "blue"}
+    ]
+}
